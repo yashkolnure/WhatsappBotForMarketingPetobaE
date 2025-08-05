@@ -1,0 +1,27 @@
+{
+  "919810708044": {
+    "stage": "free_sent",
+    "lastInteraction": 1754421570722,
+    "followUpSent": true
+  },
+  "status": {
+    "stage": "plans_sent",
+    "lastInteraction": 1754421233954,
+    "followUpSent": false
+  },
+  "916202783271": {
+    "stage": "welcome_sent",
+    "lastInteraction": 1754420680193,
+    "followUpSent": true
+  },
+  "918369020480": {
+    "stage": "welcome_sent",
+    "lastInteraction": 1754420680635,
+    "followUpSent": true
+  },
+  "917499835687": {
+    "stage": "free_sent",
+    "lastInteraction": 1754423590123,
+    "followUpSent": false
+  }
+}

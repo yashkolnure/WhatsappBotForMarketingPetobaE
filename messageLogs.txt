@@ -1,0 +1,14 @@
+2025-08-05T19:35:04.342Z | 917499835687 | Unrecognized Plan Keyword
+2025-08-05T19:35:09.206Z | 917499835687 | Free Plan Message Sent
+2025-08-05T19:35:23.438Z | 917499835687 | Premium Plan Message Sent
+2025-08-05T19:35:52.845Z | 917499835687 | Demo Triggered: Follow-up Media Sent
+2025-08-05T19:36:13.772Z | 917499835687 | Unrecognized Plan Keyword
+2025-08-05T19:38:51.657Z | 917499835687 | Unrecognized Plan Keyword
+2025-08-05T19:39:09.932Z | 917499835687 | Free Plan Message Sent
+2025-08-05T19:52:49.955Z | 917499835687 | Unrecognized Plan Keyword
+2025-08-05T19:52:58.957Z | 917499835687 | Unrecognized Plan Keyword
+2025-08-05T19:53:10.462Z | 917499835687 | Unrecognized Plan Keyword
+2025-08-05T19:53:13.015Z | 917499835687 | Free Plan Message Sent
+2025-08-05T19:57:45.596Z | 919810708044 | Follow-up Triggered via Inactivity
+2025-08-05T19:57:51.287Z | 916202783271 | Follow-up Triggered via Inactivity
+2025-08-05T19:57:56.560Z | 918369020480 | Follow-up Triggered via Inactivity
